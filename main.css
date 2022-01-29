@@ -18,8 +18,14 @@ img1 {
     max-width: auto;
     height: 100%;
     position: relative;
-    left: 50px;
+    left: 1000px;
     border: 10px solid #ff3191;
 
+}
+
+404img {
+    max-width: auto;
+    height: 75%;
+    position: center;
 }
 
