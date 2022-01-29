@@ -5,4 +5,10 @@ h1 {
     text-decoration: bold;
     color: white;
     background-color: #b6ff9f;
+
+}
+
+p {
+    font-family: "Arial", sans-serif;
+
 }
