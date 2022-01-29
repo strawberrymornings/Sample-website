@@ -4,11 +4,22 @@ h1 {
     font-size: 100px;
     text-decoration: bold;
     color: white;
-    background-color: #b6ff9f;
+    background-color: #ff3191;
 
 }
 
 p {
     font-family: "Arial", sans-serif;
+    font-size: 30px;
 
 }
+
+img1 {
+    max-width: auto;
+    height: 100%;
+    position: relative;
+    left: 50px;
+    border: 10px solid #ff3191;
+
+}
+
