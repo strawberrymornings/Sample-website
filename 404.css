@@ -1,0 +1,23 @@
+
+    #404heading {
+      text-align: left;
+      font-family: "Arial", sans-serif;
+      font-size: 100px;
+      text-decoration: bold;
+      color: white;
+      background-color: #ff3191;
+    }
+
+    p {
+      font-family: "Arial", sans-serif;
+      font-size: 20px;
+
+    }
+
+    #404img {
+      max-width: auto;
+      height: 75%;
+      position: center;
+    }
+
+ 
