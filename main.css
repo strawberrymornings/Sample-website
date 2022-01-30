@@ -1,26 +1,53 @@
-h1 {
-    text-align: center;
-    font-family: "Lucida Calligraphy", cursive;
-    font-size: 100px;
-    text-decoration: bold;
-    color: white;
-    background-color: #ff3191;
-
-}
-
-p {
-    font-family: "Arial", sans-serif;
-    font-size: 30px;
-
-}
-
-img1 {
-    max-width: auto;
-    height: 100%;
+#posts {
     position: relative;
-    left: 1000px;
-    border: 10px solid #ff3191;
-
-}
-
-
+    left: 380px;
+    top: 60px;
+    height: 60px;
+    width: 50px;
+    background-color: white;
+   border: none;
+    color: #ff3191;
+    
+  }
+  
+  #mygithub {
+     position: relative;
+    left: 390px;
+    top: 70px;
+    height: 60px;
+    width: 50px;
+    background-color: white;
+   border: none;
+    color: #ff3191;
+  
+    
+  }
+  
+  
+  h1 {
+      text-align: center;
+      font-family: "Lucida Calligraphy", cursive;
+      font-size: 100px;
+      text-decoration: bold;
+      color: white;
+      background-color: #ff3191;
+  
+  }
+  
+  p {
+      font-family: "Arial", sans-serif;
+      font-size: 30px;
+  
+  }
+  
+  img1 {
+      max-width: auto;
+      height: 100%;
+      position: relative;
+      left: 1000px;
+      border: 10px solid #ff3191;
+  
+  }
+  
+  
+  
