@@ -13,12 +13,12 @@
   
   #mygithub {
      position: relative;
-    left: 58%;
+    left: 90%;
      top: 75px;
     height: 100px;
     width: 100px;
     background-color: white;
-   
+   border: none;
     color: #ff3191;
     font-size: 30px;
   
