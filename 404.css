@@ -1,23 +1,55 @@
-
-    #header404 {
-      text-align: left;
-      font-family: "Lucida Handwriting", cursive;
-      font-size: 75px;
+#posts {
+    position: relative;
+    left: 55%;
+    top: 60px;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+   
+    color: #ff3191;
+    font-size: 30px;
+    
+  }
+  
+  #mygithub {
+     position: relative;
+    right: 90%;
+     top: 75px;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+   
+    color: #ff3191;
+    font-size: 30px;
+  
+    
+  }
+  
+  
+  h1 {
+      text-align: center;
+      font-family: "Lucida Calligraphy", cursive;
+      font-size: 100px;
       text-decoration: bold;
       color: white;
       background-color: #ff3191;
-    }
-
-    p {
+  
+  }
+  
+  p {
       font-family: "Arial", sans-serif;
-      font-size: 20px;
-
-    }
-
-    #roseImg {
+      font-size: 30px;
+  
+  }
+  
+  img1 {
       max-width: auto;
-      height: 75%;
-      position: center;
-    }
-
- 
+      height: 100%;
+      position: relative;
+      left: 1000px;
+      border: 10px solid #ff3191;
+  
+  }
+  
+  
+  
