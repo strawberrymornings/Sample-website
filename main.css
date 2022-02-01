@@ -1,11 +1,11 @@
-#posts {
+#gallery {
     position: relative;
     left: 55%;
     top: 60px;
     height: 100px;
     width: 100px;
     background-color: white;
-   
+   border: none;
     color: #ff3191;
     font-size: 30px;
     

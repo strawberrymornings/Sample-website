@@ -1,4 +1,4 @@
-var posts = document.getElementById("posts");
+var gallery = document.getElementById("gallery");
 
 var mygithub = document.getElementById("mygithub");
 
@@ -12,3 +12,13 @@ window.open(
 
 
 }
+
+gallery.addEventListener("click", ToGallery);
+
+function ToGallery () {
+window.open(
+"https://www.strawberrymornings.github.io/gallery", "_self" //opens link in current tab
+)
+
+}
+
