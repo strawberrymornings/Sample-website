@@ -13,7 +13,7 @@ window.open(
 
 }
 
-favourites.addEventListener("click", ToInspocorner);
+inspocorner.addEventListener("click", ToInspocorner);
 
 function ToInspocorner () {
 window.open(
